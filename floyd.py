@@ -8,13 +8,14 @@ for k in range(n):
 for i in range(n):
         for j in range(n): 
             print(tab[i][j], end=" ")
-        print("\n") # вывод надо в txt
+        print("") # вывод надо в txt
 ind=0 #индекс нужной станции
 hel=0
+minc=999999999
 a=1 #станция а
 b=2 #станция b
-for i in range n:
-    help=abs(tab[i][a]-tab[i][b])+(tab[i][b]+tab[i][a]
-    if help<c
-        c=hel
+for i in range (n):
+    help=abs(tab[i][a]-tab[i][b])+tab[i][b]+tab[i][a]
+    if hel<minc:
+        minc=hel
         ind=i
