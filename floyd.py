@@ -15,7 +15,7 @@ minc=999999999
 a=1 #станция а
 b=2 #станция b
 for i in range (n):
-    help=abs(tab[i][a]-tab[i][b])+tab[i][b]+tab[i][a]
+    hel=abs(tab[i][a]-tab[i][b])+tab[i][b]+tab[i][a]
     if hel<minc:
         minc=hel
         ind=i
