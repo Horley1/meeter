@@ -1,2 +1,2 @@
 # meeter
-Service, that can help you to find optimal place to meet with somebody.
+Service, that helps you to find a suitable place to meet with somebody.
