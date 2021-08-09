@@ -13,9 +13,10 @@ ind=0 #индекс нужной станции
 hel=0
 minc=999999999
 a=1 #станция а
-b=2 #станция b
+b=6 #станция b
 for i in range (n):
     hel=abs(tab[i][a]-tab[i][b])+tab[i][b]+tab[i][a]
     if hel<minc:
         minc=hel
         ind=i
+print("/n"+ind)
