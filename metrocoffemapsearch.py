@@ -78,7 +78,7 @@ places=[
             "url": "https://coffeemap.ru/8-25/", 
             "time": "ПН–ПТ: 8:00–20:00, СБ–ВС: 10:00–20:00", 
             "note": "", 
-            "address": "Ул. Большая Новодмитровская, 36 строение 1, дизайн-завод FLACON", 
+            "address": "Ул. Большая Новодмитровская, 36 строение 1", 
             "lat": 55.8045378, 
             "lng": 37.5846674, 
             "id": 11
@@ -168,7 +168,7 @@ places=[
             "url": "https://coffeemap.ru/abc-coffee-roasters/", 
             "time": "ПН-ПТ: 8:00-22:00, СБ-ВС: 10:00-22:00", 
             "note": "https://www.instagram.com/abc.roasters/", 
-            "address": "Пресненская набережная, 6с2, 1 этаж башни Imperia Tower, 3-й подъезд", 
+            "address": "Пресненская набережная, 6с2", 
             "lat": 55.7474907, 
             "lng": 37.5412388, 
             "id": 21
@@ -178,7 +178,7 @@ places=[
             "url": "https://coffeemap.ru/all-day/", 
             "time": "ПН-ПТ: 08:00-22:00, СБ-ВС: 10:00-22:00", 
             "note": "https://www.instagram.com/all.day_restaurant/", 
-            "address": "Пресненская наб., 12, башня &quot;Федерация&quot;", 
+            "address": "Пресненская наб., 12", 
             "lat": 55.74991554698954, 
             "lng": 37.53800363198998, 
             "id": 24
@@ -188,7 +188,7 @@ places=[
             "url": "https://coffeemap.ru/alternative-coffee-shop/", 
             "time": "ПН-ПТ: 8:00-20:00, СБ: 10:00-18:00, ВС: закрыто", 
             "note": "https://www.instagram.com/alternative_coffee/", 
-            "address": "Романов переулок, 4, БЦ Романов Двор", 
+            "address": "Романов переулок, 4", 
             "lat": 55.7546378, 
             "lng": 37.6090164, 
             "id": 25
@@ -198,7 +198,7 @@ places=[
             "url": "https://coffeemap.ru/andy-coffee/", 
             "time": "ПН-ПТ: 8:00-18:00, СБ-ВС: выходной", 
             "note": "https://www.instagram.com/andymsk/", 
-            "address": "Ул. Новорязанская 18с2, на входе в БЦ Стендаль", 
+            "address": "Ул. Новорязанская 18с2", 
             "lat": 55.77224731321863, 
             "lng": 37.6621045079346, 
             "id": 27
@@ -248,7 +248,7 @@ places=[
             "url": "https://coffeemap.ru/bitter-drop/", 
             "time": "ПН-ПТ: 8:00-22:00, СБ-ВС: 10:00-21:00", 
             "note": "https://www.instagram.com/bitterdrop.c/", 
-            "address": "Ул. Нижняя Сыромятническая, 10 стр 4 вход C", 
+            "address": "Ул. Нижняя Сыромятническая, 10 стр 4", 
             "lat": 55.752189270212874, 
             "lng": 37.67030065020094, 
             "id": 35
@@ -258,7 +258,7 @@ places=[
             "url": "https://coffeemap.ru/black-cups/", 
             "time": "ПН-ПТ: 8:00 - 20:00, СБ-ВС: 10:00 - 18:00", 
             "note": "https://www.instagram.com/blackcups_moscow/", 
-            "address": "Пресненская набережная, 12, «Башня Федерация», 1 этаж", 
+            "address": "Пресненская набережная, 12", 
             "lat": 55.74954248031153, 
             "lng": 37.53805173754267, 
             "id": 37
@@ -318,7 +318,7 @@ places=[
             "url": "https://coffeemap.ru/brew-coffee/", 
             "time": "ПН-ВС: 10:00-22:00", 
             "note": "https://www.instagram.com/brew.coffeebar/", 
-            "address": "Мичуринский проспект, 27, ТЦ ТИАРА", 
+            "address": "Мичуринский проспект, 27", 
             "lat": 55.69743870000001, 
             "lng": 37.50025040000001, 
             "id": 46
@@ -458,7 +458,7 @@ places=[
             "url": "https://coffeemap.ru/camera-obscura/", 
             "time": "ПН-ПТ: 09:00-23:00, СБ-ВС: 10:00-00:00", 
             "note": "", 
-            "address": "Ул. Маросейка 4, Центральный рынок, 2 этаж", 
+            "address": "Ул. Маросейка 4", 
             "lat": 55.75738078468937, 
             "lng": 37.633152859385746, 
             "id": 64
@@ -468,7 +468,7 @@ places=[
             "url": "https://coffeemap.ru/camera-obscura/", 
             "time": "ПН-ЧТ: 07:30-20:00, ПТ: 07:30-19:00, СБ-ВС: выходной", 
             "note": "", 
-            "address": "Проспект Андропова, 18к1, внутри МТС-Банк", 
+            "address": "Проспект Андропова, 18к1", 
             "lat": 55.694996, 
             "lng": 37.662802899999974, 
             "id": 65
@@ -722,16 +722,6 @@ places=[
             "lat": 55.5462585, 
             "lng": 37.5493504, 
             "id": 95
-        }, 
-        {
-            "title": "Coffee Miru", 
-            "url": "https://coffeemap.ru/coffee-miru/", 
-            "time": "ПН-ПТ: 11:00-21:00, СБ-ВС: 12:00-21:00", 
-            "note": "https://www.instagram.com/coffee_miru/", 
-            "address": "Ул. Восстания, 24", 
-            "lat": 59.9384403, 
-            "lng": 30.35988960000001, 
-            "id": 96
         }, 
         {
             "title": "Coffee WOO", 
@@ -1424,16 +1414,6 @@ places=[
             "id": 180
         }, 
         {
-            "title": "Gaslight Cafe", 
-            "url": "https://coffeemap.ru/gaslight-cafe/", 
-            "time": "ПН-ВС: 11:00 - 20:00", 
-            "note": "https://www.instagram.com/gaslight.cafe/", 
-            "address": "Биржевой переулок, д.4, Санкт Петербург", 
-            "lat": 59.94495449999999, 
-            "lng": 30.29247659999999, 
-            "id": 181
-        }, 
-        {
             "title": "Gentle", 
             "url": "https://coffeemap.ru/gentle/", 
             "time": "ПН-ВС: 08:00-00:00", 
@@ -1972,16 +1952,6 @@ places=[
             "lat": 55.77255771256738, 
             "lng": 37.592569637434394, 
             "id": 265
-        }, 
-        {
-            "title": "Not for sale", 
-            "url": "https://coffeemap.ru/not-for-sale/", 
-            "time": "ПН-ВС: 9:00-21:00", 
-            "note": "https://www.instagram.com/notforsale_studio/", 
-            "address": "Ул. Садовая, 21 АБ", 
-            "lat": 59.9301167, 
-            "lng": 30.3252911, 
-            "id": 266
         }, 
         {
             "title": "Nude", 
@@ -3854,16 +3824,6 @@ places=[
             "id": 521
         }, 
         {
-            "title": "Кафе Подписных изданий", 
-            "url": "https://coffeemap.ru/kafe-podpisnyh-izdanij/", 
-            "time": "ПН-ВС: 10:00-22:00", 
-            "note": "https://www.instagram.com/izdaniya/", 
-            "address": "Литейный проспект, 57", 
-            "lat": 59.9348618372204, 
-            "lng": 30.347758423942576, 
-            "id": 522
-        }, 
-        {
             "title": "Кафе О Ле", 
             "url": "https://coffeemap.ru/kafe-o-le/", 
             "time": "ПН-ВТ: 8:00-20:00, СР-ПТ: 8:00-22:00, СБ: 10:00-22:00, ВС: 10:00-20:00", 
@@ -3932,16 +3892,6 @@ places=[
             "lat": 55.75318679999999, 
             "lng": 37.634707599999956, 
             "id": 530
-        }, 
-        {
-            "title": "Кофе Нарушители", 
-            "url": "https://coffeemap.ru/kofe-narushiteli/", 
-            "time": "ПН-ВС: 9:00-22:00", 
-            "note": "https://www.instagram.com/breakerscoffee ", 
-            "address": "Ул. Маяковского, 37Г", 
-            "lat": 59.9419362, 
-            "lng": 30.35723149999999, 
-            "id": 532
         }, 
         {
             "title": "Кофе нон стоп", 
@@ -4824,16 +4774,6 @@ places=[
             "id": 660
         }, 
         {
-            "title": "Склад 17", 
-            "url": "https://coffeemap.ru/sklad-17/", 
-            "time": "ПН-ЧТ: 10:00 - 22:00, ПТ: 10:00 - 23:00, СБ: 11:00 - 23:00, ВС: 11:00 - 22:00", 
-            "note": "https://www.instagram.com/sklad_17/", 
-            "address": "Литейный проспект, 18/2", 
-            "lat": 59.94433480000001, 
-            "lng": 30.3490136, 
-            "id": 661
-        },
-        {
             "title": "Сначала сюда", 
             "url": "https://coffeemap.ru/snachala-syuda/", 
             "time": "ПН-ВС: 12:00 - 22:00", 
@@ -5015,8 +4955,6 @@ places=[
         }
 ]
 
-
-
 api = overpy.Overpass()
 mindist = 100000000000000
 
@@ -5033,7 +4971,7 @@ metrolat=mcoords.nodes[0].lat
 metrolng=mcoords.nodes[0].lon     
       
      
-for i in range(501):
+for i in range(495):
 	dlon = places[i]["lng"] - float(metrolng)
 	dlat = places[i]["lat"] - float(metrolat)
 	a = (math.sin(dlat/2))**2 + math.cos(float(metrolat)) * math.cos(places[i]["lat"]) * (math.sin(dlon/2))**2
