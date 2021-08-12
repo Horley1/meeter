@@ -7,6 +7,9 @@ dbconfig = {
     'port':'5432',
     'database':'d6k99pdrf80vm8'
     }
+
+json = json.load(open('D:\cafes.json', 'r'))
+print(json[0]['title'])
 connection = psycopg2.connect(**dbconfig)
 cur = connection.cursor() 
 print('connect')
