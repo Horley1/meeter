@@ -1,0 +1,8 @@
+from bs4 import BeautifulSoup
+import requests as req
+#нужно скачать bs4, requests, lxml
+resp = req.get("https://coffeemap.ru/kafema/")
+soup = BeautifulSoup(resp.text, 'lxml')
+for tag in soup.find_all("em"):
+    ru = tag.text
+    print(ru.split()[0] + '₽')
