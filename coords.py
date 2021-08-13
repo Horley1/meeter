@@ -29,7 +29,7 @@ class Cafe():
 
         for i in range(n, nc):
             if abs(tab[i][a] - tab[i][b]) < p:
-                hel = max(tab[i][b],tab[i][a])
+                hel = tab[i][b]+tab[i][a]
                 if hel < minc:
                     minc = hel
                     ind1 = i
